@@ -26,6 +26,18 @@ body {
 	display: none;
 }
 .vetur {
-	display: none;
+	background: linear-gradient(to top left,  #fff, #80b0fc);
+	width: 100%;
+	height: 59em;
+	margin: 0;
+	padding: 0;
+	display: flex; 
+	justify-content: center;
+	align-items: center;
+	align-content: center;
 }
+.vetur h1 {
+	font-size: 5em;
+	color: #33496d;
 
+}
